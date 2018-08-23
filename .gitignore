@@ -1,0 +1,30 @@
+@@ -1,30 +0,0 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin
+obj
+[Pp]ackages
+
+#Code analysis files
+_Resharper.*
+
+#Package Files
+*.nupkg
+
+#Merge tool files
+*.orig
+
+#Editor/IDE files
+*.swp
+*.user
+*.docstates
+*.suo
+.idea
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Windows
+[Tt]humbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
